@@ -1,5 +1,8 @@
 ## React Native Tutorial: Integrating in an Existing App
 
+## Perview
+![Image text](https://github.com/luoerming/ReactNative-in-project/blob/master/PerviewGIF.gif)
+
 ## Step1:
 If you dont'have cocoaPods installed, execute the following command in Terminal;
 
