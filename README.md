@@ -1,7 +1,7 @@
 ## React Native Tutorial: Integrating in an Existing App
 
 ## Perview
-![Alt Text](http://source.luoerming.com/images/ReactNativeInProject_Demo.gigif)
+![Alt Text](http://source.luoerming.com/images/ReactNativeInProject_Demo.gif)
 
 
 ## Step1:
