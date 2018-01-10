@@ -1,7 +1,7 @@
 ## React Native Tutorial: Integrating in an Existing App
 
 ## Perview
-![Image text](https://github.com/luoerming/ReactNative-in-project/blob/master/PerviewGIF.gif)
+![Image text](http://source.luoerming.com/images/ReactNativeInProject_Demo.gif)
 
 ## Step1:
 If you dont'have cocoaPods installed, execute the following command in Terminal;
@@ -76,12 +76,12 @@ Create a folder named react-component in the project root directory. And Create 
 
 Next, Run the command to install the required Node.js modules;
 
-## Step3
+## Step4
 Go to react-component folder. And run the following command to starting NodeJs servers;
 
 `npm start`
 
-## Step4
+## Step5
 
 For security reasons, Apple by default blocks HTTP access to URLs. You’ll have to make an exception so you can load your bundle from the development server running on http://localhost.
 In Xcode, open Info.plist and perform the following:
